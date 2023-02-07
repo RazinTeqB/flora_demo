@@ -2,6 +2,7 @@
 <template>
      <div class="products-box col">
           <div class="container">
+               <h3 class="title mb-3">Our Absolute Favorites</h3>
                <div class="row g-4">
                     <div class="col-md-4">
                          <div class="card">

@@ -2,6 +2,7 @@
 <template>
      <div class="search-bar py-5">
           <div class="container">
+               <h3 class="title mb-3">International flower delivery: anytime, anywhere </h3>
                <form class="row g-3 justify-content-center">
                     <div class="col-auto w-25">
                          <input type="text" class="form-control" id="searchName" placeholder="Name">
@@ -20,8 +21,8 @@
                          </select>
                     </div>
 
-                    <div class="col-auto">
-                         <button type="submit" class="btn btn-dark">View Flowers</button>
+                    <div class="col-auto w-25">
+                         <button type="submit" class="btn btn-dark w-100 py-2 form-contoll">View Flowers</button>
                     </div>
                </form>
           </div>

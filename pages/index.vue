@@ -1,5 +1,5 @@
 <template>
-  <div class="index text-danger">
+  <div class="index">
 
 
     <SliderComponent/>
