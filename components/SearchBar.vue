@@ -1,6 +1,6 @@
 
 <template>
-     <div class="search-bar py-3">
+     <div class="search-bar py-5">
           <div class="container">
                <form class="row g-3 justify-content-center">
                     <div class="col-auto w-25">

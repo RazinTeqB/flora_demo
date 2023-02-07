@@ -5,7 +5,7 @@
     <SliderComponent/>
     <SearchBar />
 
-    <div class="py-3">
+    <div class="pb-5">
       <ProductBox  />
     </div>
   </div>
