@@ -1,6 +1,5 @@
 <template>
-  <div class="layout">
-    <!-- HEADER HERE -->
+  <div>
     <header>
       <div class="container">
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -41,5 +40,4 @@
 </template>
 
 <script setup>
-const data = "";
 </script>
