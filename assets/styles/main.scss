@@ -1,1 +1,28 @@
 @import "bootstrap/scss/bootstrap";
+
+body{
+     color:#444;
+}
+a{
+     color:#444;
+     text-decoration:none;
+}
+.products-box{
+     .card{
+          img{
+               height:230px;
+               object-fit:cover;
+          }
+     }
+}
+
+@media (max-width:767px){
+     .search-bar{
+          form{
+               .col-auto{
+                    width:75% !important;
+               }
+          }
+     }
+
+}
